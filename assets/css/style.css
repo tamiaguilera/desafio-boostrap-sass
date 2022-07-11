@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #1c1c1c;
+}
+
+.card{
+    padding: 1rem;
+
+}
+.card img{
+    width: 100%;
+}
